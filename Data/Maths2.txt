@@ -1,0 +1,124 @@
+
+BSMA1003
+Foundational Level Course
+Mathematics for Data Science II
+This course aims to introduce the basic concepts of linear algebra, calculus and optimization with a focus towards the application area of machine learning and data science.
+by
+Sarang S Sane
+Course ID: BSMA1003
+Course Credits: 4
+Course Type: Foundational
+Pre-requisites:
+BSMA1001 -  Mathematics for Data Science I
+What youâll learn
+VIEW COURSE VIDEOS
+Manipulating matrices using matrix algebra.
+Performing elementary row operations.
+Using Gaussian Elimination: Solving systems of linear equations. Find out whether a set of vectors are linearly independent. Writing down a set of dependencies in case vectors are not linearly independent. Finding subspaces along with their bases and ranks.
+Finding distances and angles using norms and inner products.
+Obtaining orthonormal basis using the Gram-Schmidt process.
+Finding maxima and minima of single variable functions using derivatives.
+Finding maxima and minima of multivariate functions using vector calculus.
+Course structure & Assessments
+11 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Vector and matrices -        
+Vectors;
+Matrices;
+Systems of Linear Equations;
+Determinants (part 1);
+Determinants (part 2)
+WEEK 2
+Solving linear equations -        
+Determinants (part 3);
+Cramer's Rule;
+"Solutions to a system of linear equations
+with an invertible coefficient matrix";
+The echelon form;
+Row reduction;
+The Gaussian elimination method
+WEEK 3
+Introduction to vector spaces -        
+Introduction to vector spaces;
+Some properties of vector spaces;
+Linear dependence;
+Linear independence - Part ;
+Linear independence - Part 2
+WEEK 4
+Basis and dimension -        
+What is a basis for a vector space?;
+Finding bases for vector spaces;
+What is the rank/dimension for a vector space;
+Rank and dimension using Gaussian elimination
+WEEK 5
+Rank and Nullity of a matrix;
+Introduction to Linear transformation -        
+The null space of a matrix : finding nullity and a basis - Part 1;
+The null space of a matrix : finding nullity and a basis - Part 2;
+What is a linear mapping - Part 1;
+What is a linear mapping - Part 2;
+What is a linear transformation
+WEEK 6
+Linear transformation, Kernel and Images -        
+Linear transformations, ordered bases and matrices;
+Image and kernel of linear transformations;
+Examples of finding bases for the kernel and image of a linear transformation
+WEEK 7
+Equivalent and Similar matrices;
+Introduction to inner products -        
+Equivalence and similarity of matrices;
+Affine subspaces and affine mappings;
+Lengths and angles;
+Inner products and norms on a vector space
+WEEK 8
+Orthogonality, Orthonormality;
+Gram-schmidt method - 
+Orthgonality and linear independence;
+What is an orthonormal basis?
+Projections using inner products;
+The Gram-Schmidt process;
+Orthogonal transformations and rotations
+WEEK 9
+Multivariable functions, Partial derivatives,
+Limit, continuity and directional derivatives -        
+Multivariable functions : visualization;
+Partial derivatives;
+Directional derivatives;
+Limits for scalar-valued multivariable functions;
+Continuity for multivariable functions;
+Directional derivatives in terms of the gradient
+WEEK 10
+Directional ascent and descent,
+Tangent (hyper) plane,
+Critical points -         
+The directional of steepest ascent/descent;
+Tangents for scalar-valued multivariable functions;
+Finding the tangent hyper(plane);
+Critical points for multivariable functions
+WEEK 11
+Higher order partial derivatives,
+Hessian Matrix and local extrema,
+Differentiability -        
+Higher order partial derivatives and the Hessian matrix;
+The Hessian matrix and local extrema for f(x,y);
+The Hessian matrix and local extrema for f(x,y,z);
+Differentiability for Multivariable Functions;
+Review of Maths - 2
++ Show all weeks
+Reference Documents / Books
+Linear Algebra
+DOWNLOAD
+About the Instructors
+Sarang S Sane
+Assistant Professor,
+                            
+                             
+                                Department of Mathematics,
+                            
+                            
+                            IIT Madras
+I completed my B.Stat. (Hons.) and M.Stat. from the Indian Statistical Institute, Kolkata in 2004 and my Ph.D. from TIFR, Mumbai in 2010. I was a postdoctoral fellow in TIFR, a visiting assistant professor in the University of Kansas and very briefly an INSPIRE faculty fellow in IISc, Bengaluru before I joined the mathematics department in IITM in 2015.
+less

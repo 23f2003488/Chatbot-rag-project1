@@ -1,0 +1,70 @@
+
+BSDA2001
+Diploma Level Course
+Introduction to DL and GenAI
+This course aims to provide a comprehensive introduction to the foundational and practical aspects of Deep Learning and Generative AI. Through a balanced blend of theoretical concepts and hands-on experience, students will learn to build, train, and evaluate artificial neural networks for a variety of tasks in computer vision and natural language processing. The course covers key architectures such as Convolutional Neural Networks (CNNs) for image data, Recurrent Neural Networks (RNNs) and LSTMs for sequential data, and extends into the realm of generative models including Autoencoders, Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs) and Large Language Models (LLMs). 
+
+By the end of the course, learners will gain the skills to implement core deep learning models and apply generative AI techniques to solve practical problems.
+by
+Prof. Balaji Srinivasan
+,
+Prof. Ganapathy Krishnamurthi
+Course ID: BSDA2001
+Course Credits: 4
+Course Type: Data Science
+Pre-requisites:
+                            
+                                None
+Co-requisites:
+BSCS2008 -  Machine Learning Practice
+Course structure & Assessments
+For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Artificial Neural Networks - Theory
+Introduction to Deep Learning, Artificial neurons, neural networks, layers, Activation functions and loss metrics
+WEEK 2
+Artificial Neural Networks - Practice
+Hands-on: Build simple neural networks using TensorFlow/Keras, Experimentation with activation functions and optimization methods
+WEEK 3
+Modeling Vision â CNN - Theory
+Introduction to Convolutional Neural Networks (CNNs), CNN architecture basics, convolution and pooling layers
+WEEK 4
+Modeling Vision â CNN - Practice
+Hands-on: CNN-based image classification (e.g., MNIST, CIFAR-10)
+WEEK 5
+Modeling Sequential Data - Theory
+Sequence models, Recurrent Neural Networks (RNNs), LSTMs
+WEEK 6
+Modeling Sequential Data - Practice
+Hands-on: Sentiment analysis with LSTM, Text generation with simple RNN/LSTM models, Time series prediction tasks
+WEEK 7
+Generative AI for vision âVariational AutoEncoders and GANs - Theory
+Introduction to Generative AI, Autoencoders and Variational Autoencoders (VAEs) basics, GANs
+WEEK 8
+Generative AI for visionâDiffusion Models
+Diffusion Probabilistic models, training and inference
+WEEK 9
+Generative AI for visionâ Practice
+GANs and Pretrained Diffusion Models to generate Images
+WEEK 10
+Large Language Models âTransformer Architecture
+Word Embeddings, Tokenization, Attention
+WEEK 11
+Large Language Models - encoder, decoder, encoder decoder models
+BERT like models for NLP tasks, Decoders for Text Generation, Machine Translation, Fine- Tuning LLMs (PEFT, LoRA )
+WEEK 12
+Large Language Models - Practice
+Prompting Techniques, Prompt Fine-tuning and other methods
++ Show all weeks
+About the Instructors
+Prof. Balaji Srinivasan
+Professor,
+                            
+                             
+                                Department of Mechanical Engineering, Wadhwani School of AI ,
+                            
+                            
+                            IIT Madras
+Balaji Srinivasan is a Professor at the Wadhwani School of AI and Dept. of Mechanical Engineering at IIT-Madras. He has a PhD from Stanford (2005), MS from Purdue, B.Tech from IITM. His current research interests are in Scientific Machine Learning, Numerical solution of PDEs and Applied Deep Learning.

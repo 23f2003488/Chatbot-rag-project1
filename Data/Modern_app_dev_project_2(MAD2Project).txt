@@ -1,0 +1,72 @@
+
+BSCS2006P
+Diploma Level Course
+Modern Application Development II - Project
+"Modern Application Development - II project" is an advanced course designed to build upon the foundations of web application development introduced in "Modern Application Development - I." The course focuses on advanced frontend technologies, such as Vue.js, to create interactive and sophisticated user interfaces. It also covers additional concepts like token-based authentication, asynchronous task execution using Celery and Redis, caching, and security considerations.
+
+The course covers some important concepts of web like Token-based Authentication, Asynchronous Task Execution with Celery and Redis, Caching Techniques. The course also talks about Security and Privacy Considerations and Cross-Origin Resource Sharing (CORS).
+by
+Thejesh G N
+,
+Prof. Nitin Chandrachoodan
+Course ID: BSCS2006P
+Course Credits: 2
+Course Type: Programming
+Pre-requisites:
+BSCS2003P -  Modern Application Development I - Project
+Co-requisites:
+BSCS2006 -  Modern Application Development II
+Project Course Overview
+The objective of this course project is to provide learners with hands-on experience in developing advanced web applications using Vue.js and related technologies.
+Students will work on building a functional web application that incorporates interactive frontend components, efficient state management using Vuex, token-based authentication for enhanced security, and asynchronous task execution using Celery and Redis.
+The project aims to reinforce knowledge gained in "Modern Application Development - I" and introduce advanced concepts in web development.
+What youâll learn
+Proficiency in advanced frontend technologies such as Vue.js, Vue Router, and Vuex, enabling them to build interactive and dynamic user interfaces.
+Understanding and implementation of token-based authentication for secure user authentication and authorization.
+Knowledge and practical experience in using Celery and Redis for asynchronous task execution, improving application performance and scalability.
+Familiarity with caching techniques to optimize data retrieval and enhance application efficiency.
+Understanding of security and privacy considerations in web development, including handling CORS (Cross-Origin Resource Sharing) and ensuring secure user interactions.
+Best Projects
+JAIDEV VIVEK DESHPANDE (21f1003751@ds.study.iitm.ac.in)
+View Project
+LOLLA AJAY KUMAR (21f1000200@ds.study.iitm.ac.in)
+View Project
+Afnan Ahmad (21f1003730@ds.study.iitm.ac.in)
+View Project
+VIGNESHWARAN S (21f1004210@ds.study.iitm.ac.in)
+View Project
+HIMANSHU SANJAY SINGH SEEMA (21f1003237@ds.study.iitm.ac.in)
+View Project
+About the Instructors
+Thejesh G N
+Software Consultant,
+                            
+                             
+                                IITM BSc Degree,
+                            
+                            
+                            IIT Madras
+Thejesh GN is an Electronics and Communication graduate from Bangalore, India. He started his career as a software engineer at Infosys technologies limited. He was awarded Infosys Community Empathy Fellowship in 2010, which allowed him to work for a not-for-profit organization for a year. He was also a senior software engineer for NPTEL / CourseBuilder team, which is now offered as Seek, an Open Source Online Education delivery platform.
+...
+more
+He loves free and open-source software. He has been an active contributor to various open-source projects. He was awarded IBM Champion in the years 2018 and 2019. Currently, he runs DataMeet â India's biggest Open Data Community and works as an Engineering Head.
+less
+Visit website
+Other courses by the same instructor:
+BSCS2003 -
+                                    Modern Application Development I
+and
+BSCS2006 -
+                                    Modern Application Development II
+Prof. Nitin Chandrachoodan
+Professor,
+                            
+                             
+                                Department of Electrical Engineering,
+                            
+                            
+                            IIT Madras
+Nitin Chandrachoodan received his BTech (electronics and communication engineering) from IIT Madras in 1996, and PhD from the University of Maryland at College Park in 2002, in the area of high-level synthesis techniques for mapping DSP algorithms to architectures. He has been with the department of electrical engineering at IIT Madras since 2004, where he is currently an professor.
+...
+more
+His research interests include digital systems design and design automation tools and techniques, as well as design of embedded systems with a special focus on assistive technologies. He has taught graduate courses on digital integrated circuit design and on mapping algorithms to architectures, and a UG course on data structures and algorithms, as well as a laboratory course on digital design using FPGAs. He is an associate editor of the Springer Journal of Signal Processing Systems.

@@ -1,0 +1,57 @@
+
+BSMS2002
+Diploma Level Course
+Business Analytics
+The problems faced by decision makers in todayâs business environments are extremely complex. Hence, the task of making good decisions is not easy. The answer is in building quantitative models, and this course is designed to help you understand the fundamentals of this critical, foundational, business skill. The business application of statistical methods is the core focus of this course. In that sense, the course builds on the core course in the first year of the program. That basic course focused on the preliminaries of the area. This course highlights a business application and then demonstates an application of a statistical techique to solve that scenario and arrive at the best decisions and insights.
+by
+Prof. Rahul R Marathe
+Course ID: BSMS2002
+Course Credits: 4
+Course Type: Data Science
+Pre-requisites:
+BSMS2001 -  Business Data Management
+What youâll learn
+VIEW COURSE VIDEOS
+At the end of the this course, the students will be able to apply various statistical techniques to solve various business problems.
+Extrapolate using various techniques and with statistical robustness.
+Build data-centric business models.
+Course structure & Assessments
+8 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Data dashboarding Insights from data summary
+WEEK 2
+Can summarizing the data provide insights?
+WEEK 3
+Do people in different cities prefer different
+brand?
+WEEK 4
+Predicting the stock returns â Regression basics
+WEEK 5
+How do you pay a professor? â Regression diagnostics - Path variables
+WEEK 6
+Can I cure cancer? â Logistic Regression - Connection with classification problem
+WEEK 7
+What is the impact of repeatedly watching the same ad? Repeated measures ANOVA
+WEEK 8
+When the data has a time axis: Time series modeling
++ Show all weeks
+Prescribed Books
+The following are the suggested books for the course:
+SF Robert E Stine and Dean Foster, Statistics for Business: Decision Making and Analysis, Pearson.
+NCT Paul Newbold, William L. Carlson and Betty Thorne, Statistics for Business and Economics, Sixth Edition, Pearson.
+ASW David R. Anderson, Dennis J. Sweeney and Thomas A. Williams, Statistics for Business and Economics, Ninth Edition, Cengage Learning.
+Keller Gerald Keller, Managerial Statistics, 9 Edition, Cengage Learning.
+LR Richard Levin and David Rubin, Statistics for Management, Seventh Edition, Pearson.
+About the Instructors
+Prof. Rahul R Marathe
+Professor,
+                            
+                             
+                                Department of Management Studies,
+                            
+                            
+                            IIT Madras
+Rahul R Marathe is a Associate Professor at IIT Madras in the Department of Management Studies. He obtained his Ph. D and M.S from Iowa State University in Industrial Engineering and Statistics, and his B.E in Production Engineering from Mumbai University.

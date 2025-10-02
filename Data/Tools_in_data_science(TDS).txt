@@ -1,0 +1,42 @@
+
+BSSE2002
+Diploma Level Course
+Tools in Data Science
+This practical course will teach students to use popular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production. Pre-requisites: Python, HTML, JavaScript, Excel, data science basics
+by
+S Anand
+Course ID: BSSE2002
+Course Credits: 3
+Course Type: Data Science
+Pre-requisites:
+                            
+                                None
+Co-requisites:
+BSCS2004 -  Machine Learning Foundations
+Course structure & Assessments
+9 modules over 12 weeks of coursework, online assignments for each module, 1 remote online exam, 2 take home projects, 1 in-person end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+MODULE 1
+Development Tools and concepts to build models and apps.
+MODULE 2
+Deployment Tools and concepts to publish what you built.
+MODULE 3
+Large Language Models that make your work easier and your apps smarter.
+MODULE 4
+Data Sourcing to get data from the web, files, and databases.
+MODULE 5
+Data Preparation to clean up and convert the inputs to the right format.
+MODULE 6
+Data Analysis to find surprising insights in the data.
+MODULE 7
+Data Visualization to communicate those insights as visual stories.
++ Show all weeks
+About the Instructors
+S Anand
+Anand is a co-founder of Gramener, a data science company. He leads a team that tells visual stories from data. He is recognized as one of Indiaâs top 10 scientists, and is a regular TEDx speaker.
+...
+more
+Anand is a gold medallist from IIM Bangalore and an alumnus of IIT Madras, London Business School, IBM, Infosys Consulting, Lehman Brothers, and BCG.
+More importantly, he has hand-transcribed every Calvin & Hobbes strip ever, is addicted to Minecraft (thanks to his daughter), and dreams of watching every film on the IMDb Top 250 (except The Shining).

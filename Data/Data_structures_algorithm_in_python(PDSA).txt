@@ -1,0 +1,63 @@
+
+BSCS2002
+Diploma Level Course
+Programming, Data Structures and Algorithms using Python
+A good foundation course to introduce basic concepts in the design and analysis of algorithms as well as standard data structures, using Python as a base language for implementing these.
+by
+Madhavan Mukund
+Course ID: BSCS2002
+Course Credits: 4
+Course Type: Programming
+Pre-requisites:
+                            
+                                None
+What youâll learn
+VIEW COURSE VIDEOS
+Evaluating asymptotic upper bounds for algorithms using big O notation
+Using standard data structures such as lists, arrays, stacks, queues, heaps
+Comparing algorithms for sorting and searching
+Representing, manipulating and analysing graphs
+Mastering algorithm design techniques such as divide and conquer and dynamic programming
+Applying linear programming and network flows to model computational problems.
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Python Refresher
+WEEK 2
+Complexity, Notations, Sorting and Searching Algorithms
+WEEK 3
+Arrays, Lists, Stacks, Queues, Hashing
+WEEK 4
+Graph Algorithms
+WEEK 5
+Graph Algorithms (Continued)
+WEEK 6
+Union-Find Data Structure, Priority Queue, Heap, Binary Search Tree
+WEEK 7
+Balanced Search Tree, Greedy Algorithms
+WEEK 8
+Divide and Conquer
+WEEK 9
+Dynamic Programming
+WEEK 10
+String or Pattern Matching Algorithms
+WEEK 11
+Network Flows, Linear Programming, Class of Algorithms
+WEEK 12
+Summary
++ Show all weeks
+About the Instructors
+Madhavan Mukund
+Director,
+                            
+                            
+                            
+                            Chennai Mathematical Institute
+Madhavan Mukund studied at IIT Bombay (BTech) and Aarhus University (PhD). He has been a faculty member at Chennai Mathematical Institute since 1992.His main research area is formal verification. He has active research collaborations within and outside India and serves on international conference programme committees and editorial boards of journals.
+...
+more
+He has served as President of both the Indian Association for Research in Computing Science (IARCS) (2011-2017) and the ACM India Council (2016-2018). He has been the National Coordinator of the Indian Computing Olympiad since 2002. He served as the Executive Director of the International Olympiad in Informatics from 2011-2014.
+In addition to the NPTEL MOOC programme, he has been involved in organizing IARCS Instructional Courses for college teachers. He is a member of ACM India's Education Committee. He has contributed lectures on algorithms to the Massively Empowered Classroom (MEC) project of Microsoft Research and the QEEE programme of MHRD.

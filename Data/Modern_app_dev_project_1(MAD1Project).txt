@@ -1,0 +1,69 @@
+
+BSCS2003P
+Diploma Level Course
+Modern Application Development I - Project
+"Modern Application Development - I project" is a comprehensive course designed to introduce learners to the fundamentals of web application development. The course covers essential technologies such as HTML, CSS, JavaScript, Flask, API implementation, and SQLite for data storage. Learners will gain practical knowledge in building secure, efficient, and deployable web applications while understanding key concepts in web development.
+by
+Thejesh G N
+,
+Prof. Nitin Chandrachoodan
+Course ID: BSCS2003P
+Course Credits: 2
+Course Type: Programming
+Pre-requisites:
+                            
+                                None
+Co-requisites:
+BSCS2003 -  Modern Application Development I
+Project Course Overview
+The objective of this course project is to provide hands-on experience in developing a web application from scratch, integrating various technologies taught throughout the course.
+Students will apply their knowledge to create a functional web application that incorporates secure authentication, efficient data management, and API integration.
+The project aims to reinforce understanding of key concepts, foster problem-solving skills, and enhance proficiency in web application development.
+What youâll learn
+Upon completing this course project, learners will acquire proficiency in HTML, CSS, JavaScript, Flask, and SQLite, enabling them to develop robust web applications.
+Students will gain practical experience in implementing secure authentication mechanisms, optimizing application performance, and integrating APIs to enhance functionality.
+The project will equip learners with skills in deploying web applications, considering security measures, and ensuring efficient data storage and retrieval.
+Best Projects
+Puneet Bhagat (21f1004363@ds.study.iitm.ac.in)
+View Project
+Aniket Kalra (21f3002102@ds.study.iitm.ac.in)
+View Project
+ANABIL KANUNGOE (21f1003580@ds.study.iitm.ac.in)
+View Project
+Rahul Kurian Jacob (21f1000481@ds.study.iitm.ac.in)
+View Project
+Rajashree Das (21f1003047@ds.study.iitm.ac.in)
+View Project
+About the Instructors
+Thejesh G N
+Software Consultant,
+                            
+                             
+                                IITM BSc Degree,
+                            
+                            
+                            IIT Madras
+Thejesh GN is an Electronics and Communication graduate from Bangalore, India. He started his career as a software engineer at Infosys technologies limited. He was awarded Infosys Community Empathy Fellowship in 2010, which allowed him to work for a not-for-profit organization for a year. He was also a senior software engineer for NPTEL / CourseBuilder team, which is now offered as Seek, an Open Source Online Education delivery platform.
+...
+more
+He loves free and open-source software. He has been an active contributor to various open-source projects. He was awarded IBM Champion in the years 2018 and 2019. Currently, he runs DataMeet â India's biggest Open Data Community and works as an Engineering Head.
+less
+Visit website
+Other courses by the same instructor:
+BSCS2003 -
+                                    Modern Application Development I
+and
+BSCS2006 -
+                                    Modern Application Development II
+Prof. Nitin Chandrachoodan
+Professor,
+                            
+                             
+                                Department of Electrical Engineering,
+                            
+                            
+                            IIT Madras
+Nitin Chandrachoodan received his BTech (electronics and communication engineering) from IIT Madras in 1996, and PhD from the University of Maryland at College Park in 2002, in the area of high-level synthesis techniques for mapping DSP algorithms to architectures. He has been with the department of electrical engineering at IIT Madras since 2004, where he is currently an professor.
+...
+more
+His research interests include digital systems design and design automation tools and techniques, as well as design of embedded systems with a special focus on assistive technologies. He has taught graduate courses on digital integrated circuit design and on mapping algorithms to architectures, and a UG course on data structures and algorithms, as well as a laboratory course on digital design using FPGAs. He is an associate editor of the Springer Journal of Signal Processing Systems.

@@ -1,0 +1,35 @@
+
+BSCS2008P
+Diploma Level Course
+Machine Learning Practice - Project
+The purpose of a machine learning project is to apply ML models learnt in ML courses, on real world data and to create an effective predictive model. Discover patterns in your data and then make predictions based on often complex findings to answer business questions, detect and analyze trends and help solve problems.
+by
+Ashish Tendulkar
+Course ID: BSCS2008P
+Course Credits: 2
+Course Type: Data Science
+Pre-requisites:
+                            
+                                None
+Co-requisites:
+BSCS2008 -  Machine Learning Practice
+Project Course Overview
+The MLP Project is conducted on Kaggle platform.
+Kaggle is a well recognized platform among data science professionals that will familiarize you with many latest problems being currently solved by organizations across the world.
+Good place to practice your ML skills and knowledge. Looks good on your resume, especially if you have won medals and badges.
+The project runs for 12 to 15 weeks. The project is divided into several milestones. These milestones divide the ML cycle into smaller and manageable steps. These milestones guide you to make steady progress.
+What youâll learn
+After completing the project you will gain experience of applying different ML techniques on real world data.
+You will gain proficiency in numpy, panda and sklearn libraries.
+You will become familiar with the 5 components of any ML project i.e. data, model, cost function, optimization and evaluation, i.e. in short, with complete end to end process of a machine learning project.
+In order to successfully complete the project, a viva will be conducted by an industry expert. This viva prepares you for ML interviews.
+About the Instructors
+Ashish Tendulkar
+Research Software Engineer,
+                            
+                             
+                                Google AI,
+                            
+                            
+                            Google
+Dr. Ashish Tendulkar is a researcher with Google Research Bangalore. He holds Masters and PhD from IIT Bombay. Before his current position, he was an Assistant Professor at IIT Madras and Head of data sciences at Persistent Systems Pune. Ashish is passionate about teaching ML and writing AI related contents in Indian languages.

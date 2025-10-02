@@ -1,0 +1,65 @@
+
+BSCS2003
+Diploma Level Course
+Modern Application Development I
+Building a modern application involves many different aspects: front end, recording transactions, storage, connecting to a remote server, using APIs etc. The courses Modern Application Development I and II go through all these aspects through a detailed and evolving case study, teaching the relevant programming skills as the course progresses.
+by
+Thejesh G N
+,
+Prof. Nitin Chandrachoodan
+Course ID: BSCS2003
+Course Credits: 4
+Course Type: Programming
+Pre-requisites:
+                            
+                                None
+Co-requisites:
+BSCS2001 -  Database Management Systems
+What youâll learn
+VIEW COURSE VIDEOS
+To be able to design a web application
+To be able to distinguish between the frontend, the backend, and the database activities
+To create such an application with Python and MySQL
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Basic terminologies of Web
+WEEK 2
+Webpages written in HTML and CSS
+WEEK 3
+Presentation layer - View
+WEEK 4
+Models - Introduction to databases
+WEEK 5
+Controllers - Business logic
+WEEK 6
+APIs and REST APIs
+WEEK 7
+Backend Systems
+WEEK 8
+Application Frontend
+WEEK 9
+Application Security
+WEEK 10
+Testing of Web Applications
+WEEK 11
+HTML Evolution and Beyond HTML
+WEEK 12
+Application Deployment
++ Show all weeks
+About the Instructors
+Thejesh G N
+Software Consultant,
+                            
+                             
+                                IITM BSc Degree,
+                            
+                            
+                            IIT Madras
+Thejesh GN is an Electronics and Communication graduate from Bangalore, India. He started his career as a software engineer at Infosys technologies limited. He was awarded Infosys Community Empathy Fellowship in 2010, which allowed him to work for a not-for-profit organization for a year. He was also a senior software engineer for NPTEL / CourseBuilder team, which is now offered as Seek, an Open Source Online Education delivery platform.
+...
+more
+He loves free and open-source software. He has been an active contributor to various open-source projects. He was awarded IBM Champion in the years 2018 and 2019. Currently, he runs DataMeet â India's biggest Open Data Community and works as an Engineering Head.

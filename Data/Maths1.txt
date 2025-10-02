@@ -1,0 +1,79 @@
+
+BSMA1001
+Foundational Level Course
+Mathematics for Data Science I
+This course introduces functions (straight lines, polynomials, exponentials and logarithms) and discrete mathematics (basics, graphs) with many examples. The students will be exposed to the idea of using abstract mathematical structures to represent concrete real life situations.
+by
+Neelesh Upadhye
+,
+Madhavan Mukund
+Course ID: BSMA1001
+Course Credits: 4
+Course Type: Foundational
+Pre-requisites: None
+What you will learn
+VIEW COURSE VIDEOS
+Recall the basics of sets, natural numbers, integers, rational numbers, and real numbers.
+Learn to use the coordinate system, and plot straight lines.
+Identify the properties and differences between linear, quadratic, polynomial, exponential, and logarithmic functions.
+Find roots, maxima and minima of polynomials using algorithmic methods.
+Learn to represent sets and relations between set elements as discrete graphs using nodes and edges.
+Formulate some common real-life problems on graphs and solve them.
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Set Theory - Number system, Sets and their operations, Relations and functions - Relations and their types, Functions and their types
+WEEK 2
+Rectangular coordinate system, Straight Lines - Slope of a line, Parallel and perpendicular lines, Representations of a Line, General equations of a line, Straight-line fit
+WEEK 3
+Quadratic Functions - Quadratic functions, Minima, maxima, vertex, and slope, Quadratic Equations
+WEEK 4
+Algebra of Polynomials - Addition, subtraction, multiplication, and division, Algorithms, Graphs of Polynomials - X-intercepts, multiplicities, end behavior, and turning points, Graphing & polynomial creation
+WEEK 5
+Functions - Horizontal and vertical line tests, Exponential functions, Composite functions, Inverse functions
+WEEK 6
+Logarithmic Functions - Properties, Graphs, Exponential equations, Logarithmic equations
+WEEK 7
+Sequence and Limits - Function of One variable - â¢ Function of one variable â¢ Graphs and Tangents â¢ Limits for sequences â¢ Limits for function of one variable â¢ Limits and Continuity
+WEEK 8
+Derivatives, Tangents and Critical points - â¢ Differentiability and the derivative â¢ Computing derivatives and LâHËopitalâs rule â¢ Derivatives, tangents and linear approximation â¢ Critical points: local maxima and minima
+WEEK 9
+Integral of a function of one variable - â¢ Computing areas, Computing areas under a curve, The integral of a function of one variable â¢ Derivatives and integrals for functions of one variable
+WEEK 10
+Graph Theory - Representation of graphs, Breadth-first search, Depth-first search, Applications of BFS and DFS; Directed Acyclic Graphs - Complexity of BFS and DFS, Topological sorting
+WEEK 11
+Longest path, Transitive closure, Matrix multiplication Graph theory Algorithms - Single-source shortest paths, Dijkstra's algorithm, Bellman-Ford algorithm, All-pairs shortest paths, FloydâWarshall algorithm, Minimum cost spanning trees, Prim's algorithm, Kruskal's algorithm
+WEEK 12
+Revision
++ Show all weeks
+Reference Documents / Books
+Sets & Functions (VOL 1)
+DOWNLOAD
+Calculus (VOL 2)
+DOWNLOAD
+GRAPH THEORY (VOL 3)
+DOWNLOAD
+Prescribed Books
+The following are the suggested books for the course:
+Introductory Algebra: a real-world approach (4th Edition) - by Ignacio Bello
+About the Instructors
+Neelesh Upadhye
+Associate Professor,
+Department of Mathematics,
+ IIT Madras
+Experienced Associate Professor with a demonstrated history of working in the higher education industry. Skilled in Mathematical Modeling, R, Stochastic Modeling, and Statistical Modeling. Strong education professional with a Doctor of Philosophy (Ph.D.) focused in Mathematical Statistics and Probability from Indian Institute of Technology, Bombay.
+less
+Visit website
+Madhavan Mukund
+Director,
+ Chennai Mathematical Institute
+Madhavan Mukund studied at IIT Bombay (BTech) and Aarhus University (PhD). He has been a faculty member at Chennai Mathematical Institute since 1992.His main research area is formal verification. He has active research collaborations within and outside India and serves on international conference programme committees and editorial boards of journals.
+...
+more
+He has served as President of both the Indian Association for Research in Computing Science (IARCS) (2011-2017) and the ACM India Council (2016-2018). He has been the National Coordinator of the Indian Computing Olympiad since 2002. He served as the Executive Director of the International Olympiad in Informatics from 2011-2014.
+In addition to the NPTEL MOOC programme, he has been involved in organizing IARCS Instructional Courses for college teachers. He is a member of ACM India's Education Committee. He has contributed lectures on algorithms to the Massively Empowered Classroom (MEC) project of Microsoft Research and the QEEE programme of MHRD.
+less
+Visit website

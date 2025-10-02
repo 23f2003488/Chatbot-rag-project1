@@ -1,0 +1,66 @@
+
+BSCS2007
+Diploma Level Course
+Machine Learning Techniques
+To introduce the main methods and models used in machine learning problems of regression, classification and clustering. To study the properties of these models and methods and learn about their suitability for different problems.
+by
+Arun Rajkumar
+Course ID: BSCS2007
+Course Credits: 4
+Course Type: Data Science
+Pre-requisites:
+                            
+                                None
+Co-requisites:
+BSCS2004 -  Machine Learning Foundations
+What youâll learn
+VIEW COURSE VIDEOS
+Demonstrating In depth understanding of machine learning algorithms - model, objective or loss function, optimization algorithm and evaluation criteria.
+Tweaking machine learning algorithms based on the outcome of experiments - what steps to take in case of underfitting and overfitting.
+Being able to choose among multiple algorithms for a given task.
+Developing an understanding of unsupervised learning techniques.
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Introduction; Unsupervised Learning - Representation learning - PCA
+WEEK 2
+Unsupervised Learning - Representation learning - Kernel PCA
+WEEK 3
+Unsupervised Learning - Clustering - K-means/Kernel K-means
+WEEK 4
+Unsupervised Learning - Estimation - Recap of MLE + Bayesian estimation, Gaussian Mixture Model - EM algorithm.
+WEEK 5
+Supervised Learning - Regression - Least Squares; Bayesian view
+WEEK 6
+Supervised Learning - Regression - Ridge/LASSO
+WEEK 7
+Supervised Learning - Classification - K-NN, Decision tree
+WEEK 8
+Supervised Learning - Classification - Generative Models - Naive Bayes
+WEEK 9
+Discriminative Models - Perceptron; Logistic Regression
+WEEK 10
+Support Vector Machines
+WEEK 11
+Ensemble methods - Bagging and Boosting (Adaboost)
+WEEK 12
+Artificial Neural networks: Multiclass classification.
++ Show all weeks
+Prescribed Books
+The following are the suggested books for the course:
+Pattern Classification by David G. Stork, Peter E. Hart, and Richard O. Duda
+Pattern Recognition and Machine Learning by Christopher M. Bishop
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+About the Instructors
+Arun Rajkumar
+Assistant Professor,
+                            
+                             
+                                Department of Data Science and AI,
+                            
+                            
+                            IIT Madras
+I am currently an Assistant Professor at the Data Science and AI department of IIT Madras. Prior to joining IIT Madras, I was a research scientist at the Xerox Research Center (now Conduent Labs), Bangalore for three years. I earned my Ph.D from the Indian Institute of Science where I worked on 'Ranking from Pairwise Comparisons'. My research interests are in the areas of Machine learning, statistical learning theory with applications to education and healthcare.

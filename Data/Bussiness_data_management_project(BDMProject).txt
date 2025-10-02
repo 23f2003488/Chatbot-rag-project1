@@ -1,0 +1,51 @@
+
+BSMS2001P
+Diploma Level Course
+Business Data Management - Project
+BDM Capstone Project is an independent research project where the student is expected to reach out to a business firm (either from organized sectors viz., well established businesses in manufacturing, IT, automobile sectors etc. which has excellent systems in place to handle and manage data or from an unorganized sectors like Kirana stores, vegetable vendors etc. which do not maintain proper records), identify the issues or the problem(s) they face, collect primary data pertaining to it, clean the data, analyze it, and provide novel/ valuable insights to the decision maker(s).
+by
+Dr. Ashwin J. Baliga
+,
+Dr. Aaditya Chandel
+,
+Dr. G Venkatesh
+,
+Dr. Milind Gandhe
+Course ID: BSMS2001P
+Course Credits: 2
+Course Type: Data Science
+Pre-requisites:
+                            
+                                None
+Co-requisites:
+BSMS2001 -  Business Data Management
+Project Course Overview
+In the proposal stage, the student is expected to provide information about the organization and its background, problem definition/ statement, the background of the problem, the problem-solving approach they wish to use with justification, the expected timelines for project completion and the probable outcomes of the project.
+In the midterm submission, students must provide a short video interaction clip with the business owner/ manager, tangible evidence like pictures, field notes etc., provide information on the meta data and descriptive statistics, conduct preliminary analysis, provide an interpretation of the results and findings.
+The final report submission is a complete report and involves in-depth explanation of the entire process from start to finish.
+The viva voce is conducted following acceptance of the final submission and for this, the student needs to make a presentation not exceeding 10 slides.
+What youâll learn
+How to reach out and collect primary data, identify the issues or the problem(s), clean the data.
+Explain and justify the reasoning behind using a particular approach, report them in a professional manner, by knitting one section to the next and how the novel insights benefits decision maker(s).
+Hands-on experience in dealing with real world
+problems and providing solutions.
+Reference Documents / Books
+Details of the BDM Project Course, Timelines & Submission Requirements
+DOWNLOAD
+About the Instructors
+Dr. Ashwin J. Baliga
+Assistant Professor,
+                            
+                            
+                            
+                            IESEG School of Management
+Dr. Ashwin J. Baliga is an Assistant Professor of Sales at IESEG School of Management, Paris Campus, France and has a PhD in B2B Marketing from IIT Madras. He is the recipient of the âIIT Madras Institute Research Awardâ for the exemplary research work done and received " Sri N Kannan Prize " for the Best PhD Thesis in Marketing at the 59th Convocation IIT Madras. Ashwin has published in Journal of Business Research, Journal of Business & Industrial Marketing, International Journal of Mineral Processing and Harvard Business Publishing. His research interests are in B2B service failure and recovery, tech usage in sales, mental health, and well-being of B2B salespeople, B2B customer reacquisition, relationship reactivation, buyer- supplier relationships etc.
+less
+Dr. Aaditya Chandel
+Research Scientist,
+                            
+                            
+                            
+                            IIT Madras
+Dr. Aaditya Chandel holds a PhD in Mechanical Engineering from IIT Madras and is currently working as a Research Scientist in IIT Madras. He has publications in Acta Mechanica and has an interest in the start-up eco system. His thesis investigated the effect of wall proximity on the wake of a rotating and translating sphere. He is the founder of QkRes Technologies and Research Services (https://www.qkres.com/), incubated in IIT Madras.
+

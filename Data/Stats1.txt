@@ -1,0 +1,84 @@
+
+BSMA1002
+Foundational Level Course
+Statistics for Data Science I
+The students will be introduced to large datasets. Using this data, the students will be introduced to various insights one can glean from the data. Basic concepts of probability also will be introduced during the course leading to a discussion on Random variables.
+by
+Usha Mohan
+Course ID: BSMA1002
+Course Credits: 4
+Course Type: Foundational
+Pre-requisites:
+ None
+What youâll learn
+VIEW COURSE VIDEOS
+Create, download, manipulate, and analyse data sets.
+Frame questions that can be answered from data in terms of variables and cases.
+Describe data using numerical summaries and visual representations.
+Estimate chance by applying laws of probability.
+Translate real-world problems into probability models.
+Calculating expectation and variance of a random variable.
+Describe and apply the properties of the Binomial Distribution and Normal distribution.
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+ For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Introduction and type of data, Types of data, Descriptive and Inferential
+statistics, Scales of measurement
+WEEK 2
+Describing categorical data
+Frequency distribution of
+categorical data, Best practices for
+graphing categorical data, Mode and median for
+categorical variable
+WEEK 3
+Describing numerical data
+Frequency tables for numerical data, Measures of central tendency - Mean, median and mode, Quartiles and percentiles, Measures of dispersion - Range, variance, standard deviation and IQR, Five number summary
+WEEK 4
+Association between two variables - 
+Association between two categorical variables - Using relative frequencies in contingency tables, Association between two numerical variables - Scatterplot, covariance, Pearson correlation coefficient, Point bi-serial correlation coefficient
+WEEK 5
+Basic principles of counting and factorial concepts - 
+Addition rule of counting, Multiplication rule of
+counting, Factorials
+WEEK 6
+Permutations and combinations
+WEEK 7
+Probability
+Basic definitions of
+probability, Events, Properties of probability
+WEEK 8
+Conditional probability - 
+Multiplication rule, Independence, Law of total probability, Bayesâ theorem
+WEEK 9
+Random Variables - 
+Random experiment, sample space and random variable, Discrete and continuous random variable, Probability mass function, Cumulative density function
+WEEK 10
+Expectation and Variance -
+Expectation of a discrete random variable, Variance and standard deviation of a discrete random variable
+WEEK 11
+Binomial and poisson random variables  - 
+Bernoulli trials, Independent and identically distributed random variable, Binomial random variable, Expectation and variance of abinomial random variable, Poisson distribution
+WEEK 12
+Introduction to continous random variables - 
+Area under the curve, Properties of pdf, Uniform distribution, Exponential distribution
++ Show all weeks
+Reference Documents / Books
+Descriptive Statistics (VOL 1)
+DOWNLOAD
+Probability and Probability Distributions (VOL 2)
+DOWNLOAD
+Prescribed Books
+The following are the suggested books for the course:
+Introductory Statistics (10th Edition) - ISBN 9780321989178, by Neil A. Weiss published by Pearson
+Introductory Statistics (4th Edition) - by Sheldon M. Ross
+About the Instructors
+Usha Mohan
+Professor,
+ Department of Management Studies,
+ IIT Madras
+Usha Mohan holds a Ph.D. from Indian Statistical Institute. She has worked as a researcher in ISB Hyderabad and Lecturer at University of Hyderabad prior to joining IIT Madras. She offers courses in Data analytics, Operations research, and Supply chain management to under graduate, post graduate and doctoral students. In addition, she conducts training in Optimization methods and Data Analytics for industry professionals. Her research interests include developing quantitative models in operations management and combinatorial optimization.
+less
+Visit website

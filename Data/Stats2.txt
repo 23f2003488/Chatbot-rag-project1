@@ -1,0 +1,81 @@
+
+BSMA1004
+Foundational Level Course
+Statistics for Data Science II
+This second course will develop on the first course on statistics and further delve into the main statistical problems and solution approaches
+by
+Andrew Thangaraj
+Course ID: BSMA1004
+Course Credits: 4
+Course Type: Foundational
+Pre-requisites:
+BSMA1002 -  Statistics for Data Science I
+BSMA1001 -  Mathematics for Data Science I
+Co-requisites:
+BSMA1003 -  Mathematics for Data Science II
+What youâll learn
+VIEW COURSE VIDEOS
+Recalling statistical modeling, description of data.
+Applying Probability distributions and related concepts to the data sets
+Explaining the concept of estimation of parameters.
+Solving the problems related to point and interval estimation.
+Explaining the concept of Testing of hypothesis related to mean and variance
+Analysing the data using simple regression models and setting up relevant hypothesis tests
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Multiple random variables - Two random variables, Multiple random variables and distributions
+WEEK 2
+Multiple random variables - Independence, Functions of random variables - Visualization, functions of multiple random variables
+WEEK 3
+Expectations Casino math, Expected value of a random variable, Scatter plots and spread, Variance and standard deviation, Covariance and correlation, Inequalities
+WEEK 4
+Continuous random variables Discrete vs continuous, Weight data, Density functions, Expectations
+WEEK 5
+Multiple continuous random variables - Height and weight data, Two continuous random variables, Averages of random variables - Colab
+illustration, Limit theorems, IPL data - histograms and approximate distributions, Jointly Gaussian random variables Probability models for data - Simple models, Models based on other distributions, Models with multiple random variables, dependency, Models for IPL powerplay, Models from data
+WEEK 6
+Refresher week
+WEEK 7
+Estimation and Inference I
+WEEK 8
+Estimation and Inference II
+WEEK 9
+Bayesian estimation
+WEEK 10
+Hypothesis testing I
+WEEK 11
+Hypothesis Testing II
+WEEK 12
+Revision week
++ Show all weeks
+Reference Documents / Books
+Joint Discrete Distributions (VOL 1)
+DOWNLOAD
+Joint Continuous Distributions (VOL 2)
+DOWNLOAD
+Prescribed Books
+The following are the suggested books for the course:
+Probability and Statistics with Examples using R. Author: Siva Athreya, Deepayan Sarkar and Steve Tanner
+About the Instructors
+Andrew Thangaraj
+Professor
+,
+                            
+                             
+                                Electrical Engineering Department
+,
+                            
+                            
+                            IIT Madras
+Andrew Thangaraj received his B. Tech in Electrical Engineering from the Indian Institute of Technology (IIT) Madras in 1998 and Ph.D. in Electrical Engineering from the Georgia Institute of Technology, Atlanta, USA in 2003.
+...
+more
+He was a post-doctoral researcher at the GTL-CNRS Telecom lab at Georgia Tech Lorraine, Metz, France from Aug 2003 till May 2004. Since 2004, he has been a faculty at the Department of Electrical Engineering, IIT Madras, where he is currently a professor.
+His research interests are in the broad areas of information theory, error-control coding and information-theoretic aspects of cryptography. From Jan 2012 till Jan 2018, he served as Editor for the IEEE Transactions on Communications. From July 2018, he is an Associate Editor for the IEEE Transactions on Information Theory.
+From Nov 2011, he has been one of the NPTEL coordinators for IIT Madras. At NPTEL, he has played a key role in the starting of online courses and certification. He is currently a National MOOCs coordinator for NPTEL under the SWAYAM project of the MHRD.
+Prof. Andrew is also one of the coordinators for the IIT Madras Online BSc Degree Program, which was launched in June, 2020.
+less

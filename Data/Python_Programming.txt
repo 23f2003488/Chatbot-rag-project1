@@ -1,0 +1,65 @@
+
+BSCS1002
+Foundational Level Course
+Programming in Python
+This will be the first formal programming course that students will see in this programme. The goal of this course is to introduce Python programming, which is used throughout the programme, with a basic problem solving and algorithmic flavour.
+by
+Sudarshan Iyengar
+Course ID: BSCS1002
+Course Credits: 4
+Course Type: Foundational
+Pre-requisites:
+BSCS1001 -  Computational Thinking
+What youâll learn
+VIEW COURSE VIDEOS
+Using basic programming concepts such as variables, expressions, loops, conditionals and functions in Python
+Creating, manipulating, and using more Python specific features such as lists, tuples, and dictionaries
+Familiarising with and using common Python libraries such as random, math, datetime, scipy, matplotlib, Pandas etc
+Analysing real life activities and casting them as programming problems
+Applying programming concepts to analyse and solve diverse problems
+Writing Readable code and debugging it
+Building small applications using python
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Introduction to algorithms
+WEEK 2
+Conditionals
+WEEK 3
+Conditionals (Continued)
+WEEK 4
+Iterations and Ranges
+WEEK 5
+Iterations and Ranges (Continued)
+WEEK 6
+Basic Collections in Python
+WEEK 7
+Basic Collections in Python (Continued)
+WEEK 8
+Basic Collections in Python (Continued)
+WEEK 9
+File Operations
+WEEK 10
+File Operations (Continued)
+WEEK 11
+Module system in python
+WEEK 12
+Basic Pandas and Numpy processing of data
++ Show all weeks
+Prescribed Books
+The following are the suggested books for the course:
+Title: Python for Everybody. Author: Charles R. Severance. Publisher: Shroff Publishers. ISBN: 9789352136278
+(The PDF of this book is currently available freely at http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+About the Instructors
+Sudarshan Iyengar
+Associate Professor and Head ,
+                            
+                             
+                                Department of Computer Science and Engineering,
+                            
+                            
+                            IIT Ropar
+Sudarshan Iyengar has a PhD from the Indian Institute of Science and is currently working as an Associate Professor and Head of CSE at IIT Ropar.

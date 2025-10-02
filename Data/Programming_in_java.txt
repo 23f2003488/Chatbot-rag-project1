@@ -1,0 +1,63 @@
+
+BSCS2005
+Diploma Level Course
+Programming Concepts using Java
+This course uses Java to provide an understanding of core ideas in object oriented programming, exception handling, event driven programming, concurrent programming and functional programming.
+by
+Madhavan Mukund
+Course ID: BSCS2005
+Course Credits: 4
+Course Type: Programming
+Pre-requisites:
+                            
+                                None
+What youâll learn
+VIEW COURSE VIDEOS
+Creating simple object-oriented programs in Java
+Understanding encapsulation, separating interface from implementation
+Implementing abstraction through a hierarchy of classes and objects
+Dealing gracefully with errors and exceptions
+Controlling concurrent access to data through locks, semaphores and monitors
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Basic Object Oriented Programming: Class Hierarchy
+WEEK 2
+Basic Object Oriented Programming: Inheritance, Overriding
+WEEK 3
+Basic Object Oriented Programming: Polymorphism
+WEEK 4
+Basic Object Oriented Programming: Abstract Classes
+WEEK 5
+Collections. Iterators.
+WEEK 6
+Generics. Callbacks.
+WEEK 7
+Cloning. I/O serializations. Packages
+WEEK 8
+Cloning. I/O serializations. Packages (Continued)
+WEEK 9
+Exception handling
+WEEK 10
+Concurrent programming
+WEEK 11
+Concurrent programming (Continued)
+WEEK 12
+Concurrent programming (Continued)
++ Show all weeks
+About the Instructors
+Madhavan Mukund
+Director,
+                            
+                            
+                            
+                            Chennai Mathematical Institute
+Madhavan Mukund studied at IIT Bombay (BTech) and Aarhus University (PhD). He has been a faculty member at Chennai Mathematical Institute since 1992.His main research area is formal verification. He has active research collaborations within and outside India and serves on international conference programme committees and editorial boards of journals.
+...
+more
+He has served as President of both the Indian Association for Research in Computing Science (IARCS) (2011-2017) and the ACM India Council (2016-2018). He has been the National Coordinator of the Indian Computing Olympiad since 2002. He served as the Executive Director of the International Olympiad in Informatics from 2011-2014.
+In addition to the NPTEL MOOC programme, he has been involved in organizing IARCS Instructional Courses for college teachers. He is a member of ACM India's Education Committee. He has contributed lectures on algorithms to the Massively Empowered Classroom (MEC) project of Microsoft Research and the QEEE programme of MHRD.
+

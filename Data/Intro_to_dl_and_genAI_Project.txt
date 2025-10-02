@@ -1,0 +1,45 @@
+
+BSDA2001P
+Diploma Level Project
+Introduction to DL and GenAI Project
+by
+Prof. Balaji Srinivasan
+,
+Prof. Ganapathy Krishnamurthi
+Course ID: BSDA2001P
+Course Credits: 2
+Course Type: Data Science
+Pre-requisites:
+BSCS2007 -  Machine Learning Techniques
+Co-requisites:
+BSCS2008 -  Machine Learning Practice
+BSDA2001 -  Introduction to DL and GenAI
+What youâll learn
+Hands-on experience with deep learning frameworks like PyTorch, Huggingface.
+Working with large language models (LLMs) and generative AI models (text, image, etc.)
+Applying transformers, diffusion models, and fine-tuning techniques
+Enhancing your profile with a Kaggle competition medal and an industry-relevant AI project
+Preparing for technical viva conducted by an industry expert to simulate real interview conditions.
+About the Instructors
+Prof. Balaji Srinivasan
+Professor,
+                            
+                             
+                                Department of Mechanical Engineering, Wadhwani School of AI ,
+                            
+                            
+                            IIT Madras
+Balaji Srinivasan is a Professor at the Wadhwani School of AI and Dept. of Mechanical Engineering at IIT-Madras. He has a PhD from Stanford (2005), MS from Purdue, B.Tech from IITM. His current research interests are in Scientific Machine Learning, Numerical solution of PDEs and Applied Deep Learning.
+less
+Other courses by the same instructor:
+BSDA2001 -
+                                    Introduction to DL and GenAI
+Prof. Ganapathy Krishnamurthi
+Professor,
+                            
+                             
+                                Wadhwani School of AI,
+                            
+                            
+                            IIT Madras
+Ganapathy Krishnamurthi is a Professor at the Wadhwani School of AI. He has a PhD from Purdue University (2008), MSc (Physics) from IITM. His current research interests are in Generative AI, and Deep learning applied to Medical Image Analysis and Medical Image Reconstruction.

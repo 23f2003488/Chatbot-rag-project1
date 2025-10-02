@@ -1,0 +1,77 @@
+
+BSCS2004
+Diploma Level Course
+Machine Learning Foundations
+This course lays the groundwork for the upcoming ML courses by covering various fundamentals that do not necessarily fall under Machine Learning but are quite necessary for a comprehensive understanding of Machine Learning.
+by
+Harish Guruprasad Ramaswamy
+,
+Arun Rajkumar
+,
+Prashanth LA
+Course ID: BSCS2004
+Course Credits: 4
+Course Type: Data Science
+Pre-requisites:
+                            
+                                None
+What youâll learn
+VIEW COURSE VIDEOS
+Recognising if a particular problem can be viewed as a Machine Learning problem.
+Breaking down standard Machine Learning problems into more fundamental problems using tools from Calculus, Linear Algebra, Probability and Optimisation.
+Recognising relationships between equation solving, projection onto a subspace, and the supervised learning problem of linear least squares regression.
+Visualising eigenvalue/eigenvectors as a property of a matrix, and recognising its potential in practical unsupervised learning problems like dimensionality reduction and image compression.
+Using, identifying failure modes, programming and debugging simple gradient descent methods for solving unconstrained optimisation problems.
+Recognising the value of simple models like Gaussian mixture models for data, constructing algorithms for learning the parameters of such models, and interpreting these parameters.
+Course structure & Assessments
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam.
+                For details of standard course structure and assessments, visit
+Academics
+page.
+WEEK 1
+Introduction to machine learning
+WEEK 2
+Calculus
+WEEK 3
+Linear Algebra - Least Squares Regression
+WEEK 4
+Linear Algebra - Eigenvalues and eigenvectors
+WEEK 5
+Linear Algebra - Symmetric matrices
+WEEK 6
+Linear Algebra - Singular value decomposition, Principal Component Analysis in Image Processing
+WEEK 7
+Unconstrained Optimisation
+WEEK 8
+Convex sets, functions, and optimisation problems
+WEEK 9
+Constrained Optimisation and Lagrange Multipliers. Logistic regression as an optimization problem
+WEEK 10
+Examples of probabilistic models in machine learning problems
+WEEK 11
+Exponential Family of distributions
+WEEK 12
+Parameter estimation. Expectation Maximization.
++ Show all weeks
+About the Instructors
+Harish Guruprasad Ramaswamy
+Assistant Professor,
+                            
+                             
+                                Department of Computer Sciences & Engineering,
+                            
+                            
+                            IIT Madras
+I am currently an assistant professor at the computer science and engineering (CSE) department of IIT Madras. My primary areas of interest are in machine learning, statistical learning theory and optimisation. I was previously a research scientist at IBM research labs and a post-doc at University of Michigan. I completed my PhD at the Computer Science and Automation (CSA) department of the Indian Institute of Science (IISc), Bangalore advised by Prof. Shivani Agarwal. I have been fortunate to work with Profs. Ambuj Tewari and Clayton Scott during my PhD and postdoc. Earlier, I finished my M.E. under the supervision of Prof. Chiranjib Bhattacharyya.
+less
+Visit website
+Arun Rajkumar
+Assistant Professor,
+                            
+                             
+                                Department of Data Science and AI,
+                            
+                            
+                            IIT Madras
+I am currently an Assistant Professor at the Data Science and AI department of IIT Madras. Prior to joining IIT Madras, I was a research scientist at the Xerox Research Center (now Conduent Labs), Bangalore for three years. I earned my Ph.D from the Indian Institute of Science where I worked on 'Ranking from Pairwise Comparisons'. My research interests are in the areas of Machine learning, statistical learning theory with applications to education and healthcare.
+less

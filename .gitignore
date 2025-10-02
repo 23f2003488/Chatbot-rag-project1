@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Database folders
+handbook_db/
+research_db/
+
+# Python cache
+__pycache__/
