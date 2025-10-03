@@ -126,7 +126,8 @@ The number of credits required to complete the foundational level is 32.
 
 > **You:** `What will I learn in the Computational Thinking course?`
 > 
-> **AI Assistant:** *Based on the provided context, in the Computational Thinking course (BSCS1001), you will learn the following concepts:
+> **AI Assistant:**
+> Based on the provided context, in the Computational Thinking course (BSCS1001), you will learn the following concepts:
 
 Applying a procedural approach to real-life problems: You will learn how to sequence basic steps and identify common patterns.
 Communicating procedural descriptions: You will understand how to express procedural descriptions using flowcharts and pseudo-code.
@@ -135,7 +136,7 @@ Selecting appropriate data structures to store relationships between data: You w
 Identifying algorithmic techniques to solve a given problem: You will understand techniques such as searching, sorting, indexing, and matching.
 Decomposing problems into smaller units to find a solution: You will learn about recursion and divide and conquer.
 Understanding and checking algorithms: You will learn how to predict the behavior of algorithms, design tests to verify their output, and perform simple debugging.
-These concepts will be covered over 12 weeks, with weekly online assignments, two in-person invigilated quizzes, and one in-person invigilated end-term exam.*
+These concepts will be covered over 12 weeks, with weekly online assignments, two in-person invigilated quizzes, and one in-person invigilated end-term exam.
 
 ### Example 3: Out-of-Scope Query
 
