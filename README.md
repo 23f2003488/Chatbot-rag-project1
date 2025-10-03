@@ -110,8 +110,8 @@ Here are a few examples of the types of questions the RAG assistant can answer a
 
 > **You:** `Tell me something about Foundation level subjects.`
 > 
-> **AI Assistant:** *Based on the provided documents, the foundational level of the BS in Data Science program consists of 8 courses. These courses are:
-
+> **AI Assistant:**
+> Based on the provided documents, the foundational level of the BS in Data Science program consists of 8 courses. These courses are:
 English 1
 English 2
 Mathematics 1
@@ -121,8 +121,6 @@ Statistics 2
 Computational Thinking
 Introduction to Python
 The number of credits required to complete the foundational level is 32.
-
-Additionally, the document provides a link to a YouTube video that serves as the orientation for the foundational level: https://youtube.com/live/aG5Gt1PFiE4?feature=share*
 
 ### Example 2: Specific Subject Query
 
