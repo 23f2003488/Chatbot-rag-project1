@@ -1,0 +1,22 @@
+# Core AI Framework
+langchain
+
+# LLM Integration (Groq)
+langchain-groq
+
+# Embedding Model Integration (Hugging Face)
+langchain-huggingface
+sentence-transformers
+
+# Vector Database
+chromadb
+
+# Web User Interface
+gradio
+
+# Data Validation & Structured Output
+pydantic
+
+# For loading .env and .yaml files
+python-dotenv
+pyyaml
