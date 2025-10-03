@@ -128,7 +128,6 @@ The number of credits required to complete the foundational level is 32.
 > 
 > **AI Assistant:**
 > Based on the provided context, in the Computational Thinking course (BSCS1001), you will learn the following concepts:
-
 Applying a procedural approach to real-life problems: You will learn how to sequence basic steps and identify common patterns.
 Communicating procedural descriptions: You will understand how to express procedural descriptions using flowcharts and pseudo-code.
 Understanding underlying abstractions used in programming: You will study the concepts of variables, iteration, accumulation, filtering, parametrized procedures, polymorphism, and state through illustrative examples.
