@@ -91,7 +91,7 @@ def retrieve_context(user_question: str, decision: RouterOutput) -> str:
 
 
 # --- 3. THE MAIN CHAT FUNCTION FOR GRADIO ---
-def chat_with_agent(user_question):
+def chat_with_agent(user_question, history):
     """
     This is the main function that Gradio's ChatInterface will call.
     It takes the user's question, and returns the AI's response.

@@ -98,7 +98,7 @@ After running the command, your terminal will show a local URL (like `http://127
 
 Once the project is deployed on Hugging Face Spaces, you can access the chatbot directly via its public URL. No installation is required.
 
-**URL:** `[Your Hugging Face Spaces URL will go here]`
+**URL:** `https://huggingface.co/spaces/Honey1811/bs-degree-chatbot`
 
 ---
 
